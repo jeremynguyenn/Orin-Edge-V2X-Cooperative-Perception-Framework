@@ -17,7 +17,7 @@ The device IP and port configurations are as shown in the figure below. The left
 
 
 ## Demo
-https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/ef8c0cf9-fe07-4639-98ef-5732f4cd2ee6
+https://github.com/jeremynguyenn/Orin-Edge-V2X-Cooperative-Perception-Framework/blob/main/video/CP_output_file_new.mp4
 
 https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/c9f54fb6-881a-4892-b0d8-0fa109310214
 
