@@ -19,8 +19,7 @@ The device IP and port configurations are as shown in the figure below. The left
 ## Demo
 https://github.com/jeremynguyenn/Orin-Edge-V2X-Cooperative-Perception-Framework/blob/main/video/CP_output_file_new.mp4
 
-https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/c9f54fb6-881a-4892-b0d8-0fa109310214
-
+https://github.com/jeremynguyenn/Orin-Edge-V2X-Cooperative-Perception-Framework/blob/main/video/sender_visualize.mp4
 ## Reference
 - [ROS2 node for TAO-PointPillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars)
 - [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/index.html)
